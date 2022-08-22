@@ -1,0 +1,27 @@
+{
+  "name": "randarray",
+  "version": "1.0.1",
+  "description": "Create a random array with a given length and data type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "array",
+    "generator",
+    "random-array",
+    "randomarray",
+    "randarray",
+    "randarrayjs",
+    "randarray-js",
+    "randarrayjs-js",
+    "randarray-js-js",
+    "randarrayjs-js-js",
+    "array random",
+    "array-random",
+    "random-generator"
+  ],
+  "author": "Kirill McQuillin",
+  "license": "MIT"
+}
